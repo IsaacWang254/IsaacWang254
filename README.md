@@ -1,5 +1,8 @@
-## Hi there 👋
-
+- Hi, I'm Isaac
+- I'm interested in GenAI, Robotics, and Fintech.
+- I'm currently pursuing an AI degree at Purdue
+- I'm looking for a summer internship
+- I'm best reached through my linkedin: in/isaac-wang-6591b3268/ 
 <!--
 **IsaacWang254/IsaacWang254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
