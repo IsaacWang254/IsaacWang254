@@ -3,7 +3,7 @@
 - I'm interested in GenAI, Robotics, and Fintech.
 - I'm currently pursuing an AI degree at Purdue
 - I'm looking for a summer internship
-- I'm best reached through my linkedin: in/isaac-wang-6591b3268/
+- I'm best reached through my email: isaac.ck.wang@gmail.com
 # Programming Languages I know
 - Python
 - C++
